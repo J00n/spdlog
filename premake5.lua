@@ -1,4 +1,4 @@
-project "Spdlog"
+project "spdlog"
     kind "SharedLib"
     language "C++"
     cppdialect "C++17"
